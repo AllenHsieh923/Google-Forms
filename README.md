@@ -11,18 +11,14 @@ Google表單統計
 6. 統計興趣抓取5個以上的，做成長條圖
 7. 最後儲存成 'google表單統計.png'
 
-# Tech Stack
-
-- import matplotlib.pyplot as plt
-— import numpy as np
-— import pandas as pd
-
 # 如何執行：
 1. 確保已安裝必要套件：
    pip install pandas matplotlib numpy
 2. 執行主程式：
    python google表單.py
 
+# 資料來源
+感謝 **王穎聰 老師** 提供 Google 表單原始資料，並授權本專案進行學術與練習使用。
 
 
 
