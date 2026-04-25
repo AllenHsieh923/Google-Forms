@@ -9,6 +9,7 @@ Google表單統計
 4. 統計課程滿意度長條圖
 5. 統計軟體熟悉度,群組長條圖
 6. 統計興趣抓取5個以上的，做成長條圖
+7. 最後儲存成 'google表單統計.png'
 
 # Tech Stack
 
@@ -16,7 +17,11 @@ Google表單統計
 — import numpy as np
 — import pandas as pd
 
-# 使用方法
+# 如何執行：
+1. 確保已安裝必要套件：
+   pip install pandas matplotlib numpy
+2. 執行主程式：
+   python google表單.py
 
 
 

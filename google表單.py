@@ -102,6 +102,7 @@ for i in s6.index:
 
 
 plt.tight_layout()
+plt.savefig("google表單統計.png")
 plt.show()
 
 df4.to_csv("google表單.csv", index=False, encoding="utf-8-sig")
